@@ -5,5 +5,6 @@ public class Main {
 
   public static void someMethod6(){
     // some work
+    // some new work
   }
 }
