@@ -3,5 +3,6 @@ public class ThirdClass {
         System.out.println("Hello");
 
         //method 1
+        //method 2
     }
 }
